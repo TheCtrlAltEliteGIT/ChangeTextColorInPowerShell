@@ -5,11 +5,11 @@ Just a simple script that changes your Text Color in the Windows PowerShell Term
 
 ## Description:
 
-The PowerShell script is a small utility that allows the user to change the foreground color of the console output interactively.
+This PowerShell script is a small utility that allows the user to change the text color of the console interactively.
 
 ## Application:
 
-The script is useful when you want to change the text color of the PowerShell console for better readability or aesthetics. Instead of manually entering the Set-ConsoleColor command every time, you can simply run this script, and it will prompt you to select a color from the list. Once you choose a color, the script will change the text color accordingly.
+The script is useful when you want to change the text color of the PowerShell console for better readability or aesthetics. Instead of manually entering the Set-ConsoleColor command every time, you can simply run this script! 😆
 
 ## To use the script:
 
