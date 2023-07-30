@@ -35,7 +35,7 @@ function ColorChanged{
 
 Write-Host "Choose a Color"
 
-##I am lazy I know but it works! :D
+##I know I know.... but it works! :D
 Write-Host "
 Black 
 Red OR DarkRed
